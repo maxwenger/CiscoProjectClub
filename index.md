@@ -1,3 +1,3 @@
 ## NHS Cisco Project Club
 
-[Meeting Agendas and Minutes](meetings)
+[Meeting Agendas and Minutes](/CiscoProjectClub/meetings)
