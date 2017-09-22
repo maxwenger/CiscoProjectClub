@@ -1,0 +1,21 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+
+body {
+    padding-top: 3.5rem;
+}
+
+#header {
+    text-align: center;
+    font-weight: bold;
+}
+
+#clockdiv {
+    display: inline;
+    text-align: center;
+    color: #049FD9;
+}
+
+#clockdiv span {
+    color: #8B1001;
+    font-weight: bold;
+}
